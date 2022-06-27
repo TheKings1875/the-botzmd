@@ -8,9 +8,9 @@ global.nameowner = 'Satria'
 global.numberowner = '6283110508453'
 global.instagram = 'https://www.instagram.com/satriaalinsky/'
 global.github = 'https://github.com/TheKings1875'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.dana = '083110508453'
+global.pulsa = '6283110508453'
+global.gopay = '_'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Slashern_Kenzo'
